@@ -2,6 +2,7 @@
 ## Why Do We Write super(props) in Class based Component ?
      
       https://overreacted.io/why-do-we-write-super-props/
+      https://chatgpt.com/c/67232913-bb68-8005-a108-d9b90d6b1513
 
 
 
